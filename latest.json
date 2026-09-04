@@ -1,0 +1,9 @@
+{
+  "version": "0.3.6",
+  "installer_url": "https://github.com/rrmarcoo/SancTARIC-Releases/releases/download/v0.3.6/SancTARIC-Setup-0.3.6.exe",
+  "release_page_url": "https://github.com/rrmarcoo/SancTARIC-Releases/releases/tag/v0.3.6",
+  "sha256": "2F94212FA8A8541ACBF91C6530DF52D95F39624A0E24C01FD0974CE2E136442A",
+  "message_ru": "Исправления и улучшения работы приложения.",
+  "message_lv": "Lietotnes darbības labojumi un uzlabojumi.",
+  "required": false
+}
