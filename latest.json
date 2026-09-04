@@ -1,8 +1,8 @@
 {
-  "version": "0.3.6",
-  "installer_url": "https://github.com/rrmarcoo/SancTARIC-Releases/releases/download/v0.3.6/SancTARIC-Setup-0.3.6.exe",
-  "release_page_url": "https://github.com/rrmarcoo/SancTARIC-Releases/releases/tag/v0.3.6",
-  "sha256": "2F94212FA8A8541ACBF91C6530DF52D95F39624A0E24C01FD0974CE2E136442A",
+  "version": "0.3.7",
+  "installer_url": "https://github.com/rrmarcoo/SancTARIC-Releases/releases/download/v0.3.7/SancTARIC-Setup-0.3.7.exe",
+  "release_page_url": "https://github.com/rrmarcoo/SancTARIC-Releases/releases/tag/v0.3.7",
+  "sha256": "F7F3ABF70A6FD8F88C152D74C5F6CAD43A5A9F8BDD8D5D088AFECFFB2241B441",
   "message_ru": "Исправления и улучшения работы приложения.",
   "message_lv": "Lietotnes darbības labojumi un uzlabojumi.",
   "required": false
