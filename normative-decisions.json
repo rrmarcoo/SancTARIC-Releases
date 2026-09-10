@@ -1,0 +1,16 @@
+{
+  "payload": {
+    "decisions": [],
+    "expires_at": "2027-03-09T13:52:37.840398+00:00",
+    "issued_at": "2026-09-10T13:52:37.840398+00:00",
+    "manifest_id": "santaric-owner-decisions",
+    "revoked_decision_ids": [],
+    "schema_version": 1,
+    "sequence": 1
+  },
+  "signature": {
+    "algorithm": "Ed25519",
+    "key_id": "ed25519-4cb8bab3c89c1b15",
+    "value": "dlM7hruPrN5OJ1TMh/1BNvOki+wuNXIJHNw493dmOaREksJ36Z26ua8U2jnZBa8HPP3j5svBfo5+K27R7c9uAQ=="
+  }
+}
