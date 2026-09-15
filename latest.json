@@ -1,9 +1,9 @@
 {
-  "version": "0.3.7",
-  "installer_url": "https://github.com/rrmarcoo/SancTARIC-Releases/releases/download/v0.3.7/SancTARIC-Setup-0.3.7.exe",
-  "release_page_url": "https://github.com/rrmarcoo/SancTARIC-Releases/releases/tag/v0.3.7",
-  "sha256": "F7F3ABF70A6FD8F88C152D74C5F6CAD43A5A9F8BDD8D5D088AFECFFB2241B441",
-  "message_ru": "Исправления и улучшения работы приложения.",
-  "message_lv": "Lietotnes darbības labojumi un uzlabojumi.",
+  "version": "0.3.8",
+  "installer_url": "https://github.com/rrmarcoo/SancTARIC-Releases/releases/download/v0.3.8/SancTARIC-Setup-0.3.8.exe",
+  "release_page_url": "https://github.com/rrmarcoo/SancTARIC-Releases/releases/tag/v0.3.8",
+  "sha256": "614E5BD50A3AA7E5F39F1E8295D54FFA34CE1D827D75C53E0AB46DC21F97CDBB",
+  "message_ru": "Исправлено ложное применение экспортного запрета транзита при проверке импорта.",
+  "message_lv": "Novērsta eksporta tranzīta aizlieguma kļūdaina piemērošana importa pārbaudē.",
   "required": false
 }
