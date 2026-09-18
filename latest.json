@@ -1,9 +1,9 @@
 {
-  "version": "0.3.9",
-  "installer_url": "https://github.com/rrmarcoo/SancTARIC-Releases/releases/download/v0.3.9/SancTARIC-Setup-0.3.9.exe",
-  "release_page_url": "https://github.com/rrmarcoo/SancTARIC-Releases/releases/tag/v0.3.9",
-  "sha256": "73E31AE5A0140C98A073A242735A272436D7D3AD8104ACB2FA207057C17274B0",
-  "message_ru": "Исправлена независимая проверка страны происхождения и страны отправления для импортных запретов России и Беларуси.",
-  "message_lv": "Labota neatkarīga izcelsmes valsts un nosūtīšanas valsts pārbaude Krievijas un Baltkrievijas importa aizliegumiem.",
+  "version": "0.3.10",
+  "installer_url": "https://github.com/rrmarcoo/SancTARIC-Releases/releases/download/v0.3.10/SancTARIC-Setup-0.3.10.exe",
+  "release_page_url": "https://github.com/rrmarcoo/SancTARIC-Releases/releases/tag/v0.3.10",
+  "sha256": "7B656FD53296DA4A471BAEA93A6AB35254BFAC79B7C6CBD22D93A28C5B7AB5A5",
+  "message_ru": "Восстановлена проверка стоимости люксовых товаров при экспорте в Россию и Беларусь. Неполные нормативные базы требуют повторной проверки официальных источников.",
+  "message_lv": "Atjaunota luksusa preču vērtības pārbaude eksportam uz Krieviju un Baltkrieviju. Nepilnīgām normatīvajām datubāzēm nepieciešama atkārtota oficiālo avotu pārbaude.",
   "required": false
 }
