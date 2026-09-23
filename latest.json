@@ -1,9 +1,9 @@
 {
-  "version": "0.3.10",
-  "installer_url": "https://github.com/rrmarcoo/SancTARIC-Releases/releases/download/v0.3.10/SancTARIC-Setup-0.3.10.exe",
-  "release_page_url": "https://github.com/rrmarcoo/SancTARIC-Releases/releases/tag/v0.3.10",
-  "sha256": "7B656FD53296DA4A471BAEA93A6AB35254BFAC79B7C6CBD22D93A28C5B7AB5A5",
-  "message_ru": "Восстановлена проверка стоимости люксовых товаров при экспорте в Россию и Беларусь. Неполные нормативные базы требуют повторной проверки официальных источников.",
-  "message_lv": "Atjaunota luksusa preču vērtības pārbaude eksportam uz Krieviju un Baltkrieviju. Nepilnīgām normatīvajām datubāzēm nepieciešama atkārtota oficiālo avotu pārbaude.",
+  "version": "0.4.0",
+  "installer_url": "https://github.com/rrmarcoo/SancTARIC/releases/download/v0.4.0/SancTARIC-Setup-0.4.0.exe",
+  "release_page_url": "https://github.com/rrmarcoo/SancTARIC/releases/tag/v0.4.0",
+  "sha256": "3724C99C5E12BC75B10657E7046C4AA3B6F577ACB94FCCB9FDCF4376FB5B1AF5",
+  "message_ru": "- Добавлено сохранение результатов проверки в PDF.\n- Добавлены статистика проверок и создание диагностического архива.\n- Добавлены светлая, тёмная и системная темы оформления.\n- Улучшена работа интерфейса при масштабировании Windows.\n- Усилен контроль актуальности официальных источников.",
+  "message_lv": "- Pievienota pārbaudes rezultātu saglabāšana PDF formātā.\n- Pievienota pārbaužu statistika un diagnostikas arhīva izveide.\n- Pievienots gaišais, tumšais un sistēmas noformējuma režīms.\n- Uzlabota saskarnes darbība ar Windows mērogošanu.\n- Pastiprināta oficiālo avotu aktualitātes kontrole.",
   "required": false
 }
