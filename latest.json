@@ -1,9 +1,9 @@
 {
-  "version": "0.5.0",
-  "installer_url": "https://github.com/rrmarcoo/SancTARIC-Releases/releases/download/v0.5.0/SancTARIC-Setup-0.5.0.exe",
-  "release_page_url": "https://github.com/rrmarcoo/SancTARIC-Releases/releases/tag/v0.5.0",
-  "sha256": "6FF2A17C3585EAB291B378A14083C623D1971A87FB9CCE280ACD9D0CE22B9A86",
-  "message_ru": "- Добавлена активация приложения уникальным ключом.",
-  "message_lv": "- Pievienota lietotnes aktivizēšana ar unikālu atslēgu.",
+  "version": "0.5.1",
+  "installer_url": "https://github.com/rrmarcoo/SancTARIC-Releases/releases/download/v0.5.1/SancTARIC-Setup-0.5.1.exe",
+  "release_page_url": "https://github.com/rrmarcoo/SancTARIC-Releases/releases/tag/v0.5.1",
+  "sha256": "6C36C81A2B323D4B5BC32FBC23B6D175AF44283EF89267DA9692B4A45A9D9DC7",
+  "message_ru": "- Учтено изменение списка физических лиц по Регламенту (ЕС) 2026/2313. Товарные и маршрутные правила не изменены; контроль остальных нормативных изменений сохранён.",
+  "message_lv": "- Ņemti vērā fizisko personu saraksta grozījumi saskaņā ar Regulu (ES) 2026/2313. Preču un maršrutu noteikumi nav mainīti; pārējo normatīvo izmaiņu kontrole ir saglabāta.",
   "required": false
 }
