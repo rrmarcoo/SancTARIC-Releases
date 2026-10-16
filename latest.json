@@ -1,9 +1,9 @@
 {
-  "version": "0.5.1",
-  "installer_url": "https://github.com/rrmarcoo/SancTARIC-Releases/releases/download/v0.5.1/SancTARIC-Setup-0.5.1.exe",
-  "release_page_url": "https://github.com/rrmarcoo/SancTARIC-Releases/releases/tag/v0.5.1",
-  "sha256": "6C36C81A2B323D4B5BC32FBC23B6D175AF44283EF89267DA9692B4A45A9D9DC7",
-  "message_ru": "- Учтено изменение списка физических лиц по Регламенту (ЕС) 2026/2313. Товарные и маршрутные правила не изменены; контроль остальных нормативных изменений сохранён.",
-  "message_lv": "- Ņemti vērā fizisko personu saraksta grozījumi saskaņā ar Regulu (ES) 2026/2313. Preču un maršrutu noteikumi nav mainīti; pārējo normatīvo izmaiņu kontrole ir saglabāta.",
+  "version": "0.5.2",
+  "installer_url": "https://github.com/rrmarcoo/SancTARIC-Releases/releases/download/v0.5.2/SancTARIC-Setup-0.5.2.exe",
+  "release_page_url": "https://github.com/rrmarcoo/SancTARIC-Releases/releases/tag/v0.5.2",
+  "sha256": "DEFB66985E71777336F2A756305C36CDA50952BFAAD06C1B237C70BE1E84C35E",
+  "message_ru": "- Повышена устойчивость проверки официальных архивов FORMEX без ослабления контроля содержимого. Исправлены повторные обновления источников и уточнены причины блокировки.",
+  "message_lv": "- Uzlabota oficiālo FORMEX arhīvu pārbaudes noturība, nesamazinot satura kontroli. Novērsta atkārtota avotu atjaunināšanas palaišana un precizēti bloķēšanas iemesli.",
   "required": false
 }
